@@ -1,0 +1,23 @@
+body h1{
+    text-align: center;
+
+}
+
+body {
+    background-color:gray;
+
+    font: normal 13px Arial; 
+
+    margin:auto;
+    width: 80%
+}
+
+.footer{
+    color: rgb(79, 11, 97)  
+}
+
+.list{
+    border: 5px dotted rgb(100, 100, 238);
+    text-align:center;
+    list-style-type: none;
+}
